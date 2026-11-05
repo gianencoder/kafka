@@ -4,7 +4,7 @@ kind: Template
 metadata:
   name: ad482-amq-streams-17-topic
   annotations:
-    description: "AD482 AMQ Streams 1.7 Topic Template"
+    description: "AD482 AMQ Streams 3.2 Topic Template"
 objects:
   - apiVersion: kafka.strimzi.io/v1
     kind: KafkaTopic
